@@ -29,4 +29,4 @@ python FP.py
 Console-Based Application
 
 ## Author
-Your Name
+W. Buddhini Ishani
